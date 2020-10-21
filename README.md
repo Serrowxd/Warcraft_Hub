@@ -4,7 +4,11 @@ Timers, API's, and all the other interesting tidbits one might need for planning
 
 ## Notes
 
-Going to be doing something like this, but for WoW - [WarframeHub](https://hub.warframestat.us/#/)
+Going to be doing something like this, but for WoW -
+
+[WarframeHub](https://hub.warframestat.us/#/)
+
+[Github Link](https://github.com/WFCD/warframe-hub)
 
 The end goal will be to have all the general information - world boss spawns, world quest rewards, auction house pricing, news and updates from wowhead, rare spawn timers, etc.
 
